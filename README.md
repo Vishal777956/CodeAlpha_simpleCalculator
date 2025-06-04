@@ -41,5 +41,6 @@ I built a clean and responsive **calculator** using HTML, CSS, and JavaScript.
 - `Escape` → Clear screen  
 - `Enter` → Show result  
 
+##what is new?
 
-
+it is the best simple calculator out there
